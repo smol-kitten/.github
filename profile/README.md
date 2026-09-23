@@ -48,33 +48,11 @@ fun_fact: every repo has been reviewed by at least one cat 🐱
 
 ## 📦 Projects
 
-### 🧰 Tools
+The pinned and most active repositories show up right below this page. A few pointers:
 
-| Repository | What it does | Lang |
-|:-----------|:-------------|:----:|
-| [**netpaw**](https://github.com/smol-kitten/netpaw) | Static-IP profiles for Windows network admins: tray tool with hotkeys, multi-subnet secondaries, reach-any-IP mode, device presets, VLAN detection. | C# |
-| [**pawkit-docgen**](https://github.com/smol-kitten/pawkit-docgen) | Deterministic code-index and wiki generators for an agent toolkit. Public CI mirror. | Python |
-
-### ⛏️ Minecraft
-
-| Repository | What it does | Lang |
-|:-----------|:-------------|:----:|
-| [**MinedMap**](https://github.com/smol-kitten/MinedMap) | Minecraft map renderer and viewer. | Rust |
-| [**MinecraftThroughTime**](https://github.com/smol-kitten/MinecraftThroughTime) | Switch Minecraft versions on specific dates from a profile. Replay the game's history, one release at a time. | C# |
-
-### 🌐 Web & Infra
-
-| Repository | What it does | Lang |
-|:-----------|:-------------|:----:|
-| [**web-core**](https://github.com/smol-kitten/web-core) | Base container images for PHP 8.4 with nginx or Apache. | Docker |
-| [**honeypot-urls**](https://github.com/smol-kitten/honeypot-urls) | A list of frequently scanned URLs and malicious file names. Use it to block bad actors before they knock twice. | Shell |
-
-### 📚 Registries & Data
-
-| Repository | What it does | Lang |
-|:-----------|:-------------|:----:|
-| [**catboy-registry**](https://github.com/smol-kitten/catboy-registry) | Source of truth for the catboy.systems OID arc: registry, protocol specs (X.509, CMS, SNMP, DHCP, syslog, DNS-SD, media types) and generated constants. IANA enterprise number pending. **New!** | Python |
-| [**common-ressources**](https://github.com/smol-kitten/common-ressources) | Resources one might or might not need more often: reference tables, code lists, small datasets. | Lua |
+- 🧰 **Tools** live mostly here and on [polo-nyan](https://github.com/polo-nyan); look for the ones with a release tag.
+- 📚 [**catboy-registry**](https://github.com/smol-kitten/catboy-registry) is the source of truth for our OID arc and protocol specs. **New!**
+- 📦 Packages (container images, NuGet) are published under this organisation; each package links back to its repository.
 
 ---
 
